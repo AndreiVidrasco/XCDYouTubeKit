@@ -1,4 +1,0 @@
-module XCDYouTubeKit {
-    umbrella header "/Users/andrei/Projects/XCDYouTubeKit/XCDYouTubeKit/include/XCDYouTubeKit.h"
-    export *
-}
