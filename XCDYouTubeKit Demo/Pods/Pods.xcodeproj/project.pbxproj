@@ -869,7 +869,7 @@
 		92E630C596895C7787D781BBFB42C023 /* GTLYouTubeInvideoTiming.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = GTLYouTubeInvideoTiming.m; path = Source/Services/YouTube/Generated/GTLYouTubeInvideoTiming.m; sourceTree = "<group>"; };
 		92F2B7DCC9B8B38D2B30BE004CEB66D7 /* GTLYouTubePlaylistListResponse.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = GTLYouTubePlaylistListResponse.m; path = Source/Services/YouTube/Generated/GTLYouTubePlaylistListResponse.m; sourceTree = "<group>"; };
 		93493A15CE5F0163ABF35CFC4B3AEC18 /* XCDLumberjackNSLogger-iOS-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "XCDLumberjackNSLogger-iOS-dummy.m"; path = "../XCDLumberjackNSLogger-iOS/XCDLumberjackNSLogger-iOS-dummy.m"; sourceTree = "<group>"; };
-		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; };
 		93D295C73B4FA682C5644526137DAB84 /* GTLYouTubeCommentThread.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = GTLYouTubeCommentThread.h; path = Source/Services/YouTube/Generated/GTLYouTubeCommentThread.h; sourceTree = "<group>"; };
 		9480AED95AEB4FEE93CE3467267E0215 /* DDMultiFormatter.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = DDMultiFormatter.h; path = Classes/Extensions/DDMultiFormatter.h; sourceTree = "<group>"; };
 		948882EC6F08B61D2DCE899CF8EA6A2F /* DDASLLogCapture.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = DDASLLogCapture.h; path = Classes/DDASLLogCapture.h; sourceTree = "<group>"; };
@@ -2376,6 +2376,7 @@
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
+				English,
 				en,
 			);
 			mainGroup = 7DB346D0F39D3F0E887471402A8071AB;
